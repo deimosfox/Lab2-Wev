@@ -1,0 +1,105 @@
+header{
+    background-image:url(https://mishutka-russia.ru/wp-content/uploads/2017/10/f4.jpg);/*1920*625*/
+    background-color: antiquewhite;
+    padding-bottom: 150px;
+    margin:0px
+}
+#vk{
+    display: inline-block;
+    background: #2196f3;
+    color: #fff;
+    padding: 12px;
+    border-radius: 18px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+    opacity: 0.5;
+}
+#vk:hover{
+    opacity: 1;
+}
+#git{
+    margin-top: 18px ;
+    display: inline-block;
+    background: #ff7d03;
+    color: #fff;
+    padding: 12px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+    opacity: 0.5;
+
+}
+#git:hover{
+    opacity: 1;
+}
+#Main_page_title{
+    padding-left:580px;
+    color:#28acd4;
+    font-size:60px;
+    font-family: Helvetica, sans-serif;
+}
+.Secondary_page_title{
+    padding-left:0px;
+    color: #ffd700;
+    font-size:30px;
+    font-family: Helvetica, sans-serif;
+}
+.top{
+    padding-left:0px;
+}
+main{
+    font-family: Helvetica, sans-serif;
+    background-color: white;
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: 0px;
+
+}
+.heading{
+    border:10px solid #2f3841;
+    border-radius: 100px;
+    font-size: 30px;
+    text-align: center;
+    margin: 60px;
+    color: #ffd700;
+    background-color: #4d4949;
+}
+.code{
+    font-size: 18px;
+    background-color: #4d4949;
+    color:yellow;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+}
+ol{
+    padding:0px;
+    margin-left:490px ;
+}
+dl{
+    padding:0px;
+    margin-left:-40px ;
+}
+dt{
+    padding:0px;
+    margin-left:620px ;
+}
+body{
+    background-image: url(https://krot.info/uploads/posts/2020-01/1579317539_47-109.jpg);
+    background-attachment: fixed;
+    background-color:#6c5a70;
+
+}
+
+footer{
+    padding: 200px;
+    background-image:url(https://million-wallpapers.ru/wallpapers/4/41/471085649181670/belaya-klaviatura.jpg);
+    background-color:white;
+}
